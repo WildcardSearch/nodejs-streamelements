@@ -1,4 +1,4 @@
-# nodejs-streamelements 0.0.1
+# nodejs-streamelements 0.0.2
 *node-streamelements drop-in replacement w/o request module (node-fetch instead)*
 
 [![npm version](https://badge.fury.io/js/nodejs-streamelements.svg)](https://badge.fury.io/js/nodejs-streamelements)

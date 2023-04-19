@@ -1,6 +1,6 @@
 {
   "name": "nodejs-streamelements",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a replacement for node-streamelements w/o dependency on deprecated request package",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,10 @@
   ],
   "author": "WildcardSearch",
   "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WildcardSearch/nodejs-streamelements.git"
+  },
   "dependencies": {
     "node-fetch": "^2.6.9"
   }
