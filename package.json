@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-streamelements",
+  "version": "0.0.1",
+  "description": "a replacement for node-streamelements w/o dependency on deprecated request package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "streamelements",
+    "node-streamelements",
+    "nodejs-streamelements",
+    "stream-elements",
+    "streamelements-API"
+  ],
+  "author": "WildcardSearch",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
