@@ -6,7 +6,7 @@
 `npm install nodejs-streamelements`
 
 ```javascript
-StreamElements = require("nodejs-streamelements");
+const StreamElements = require("nodejs-streamelements");
 
 const se = new StreamElements({
 	accountId: "ID",
